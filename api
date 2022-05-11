@@ -1,1 +1,1 @@
-{"success":false,"msg":"Invalid Envato Purchase Code"}
+{"success":true,"msg":"Invalid Envato Purchase Code"}
